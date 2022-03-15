@@ -10,8 +10,6 @@ public class Chapter8Section4 {
                 .reduce((x, y) -> x + y)
                 .get();
         System.out.println("sum = " + sum);
-        
-
     }
 
 }
